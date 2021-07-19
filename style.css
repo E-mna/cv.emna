@@ -10,25 +10,37 @@
 
  .deux{
    float: right;
-   padding-right: 100px;
+   padding-right: 90px;
+   padding-bottom: 40px;
  }
+ .un{
+  padding-top: 20px;
+  padding-left: 90px;
+  padding-bottom: 40px;
+}
 
  .nom{
    padding-top: 30px;
  }
  .formation{
-   padding-top: 100px;
+   padding-top: 80px;
  }
+
+ 
 
  h1{
- size: 15px;
+  font-size: medium;
+ }
+ p, ul{
+   font-size: 15px;
  }
 
-
- .un{
-   padding-left: 100px;
+ .nom{
+  font-size: 30px;
    
-
  }
-
+ .metier{
+  text-align: right;
+  color: rgb(189, 141, 96);
+ }
  
