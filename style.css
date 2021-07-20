@@ -1,4 +1,4 @@
- 
+
 
  body { 
  
@@ -8,17 +8,25 @@
   background-repeat: no-repeat; /* ne pas repliter image */
   min-width: 100%;
   min-height: 100%;
+  
  }
+ 
+ 
  
  .deux{
    float: right;
    padding-right: 90px;
    padding-bottom: 40px;
+   flex-direction: row;
+    
+   
  }
+
  .un{
   padding-top: 20px;
   padding-left: 90px;
   padding-bottom: 40px;
+  
 }
 
  .nom{
@@ -26,6 +34,7 @@
  }
  .formation{
    padding-top: 80px;
+   padding-left: 5Opx;
  }
 
  
@@ -45,13 +54,3 @@
   text-align: right;
   color: rgb(189, 141, 96);
  }
-
-
- .circle {
-  width: 20px;
-  height: 20px;
-  border: 1px solid #000;
-  position: absolute;
-  border-radius: 15px;
-}
- 
