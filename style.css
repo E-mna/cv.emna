@@ -1,5 +1,4 @@
-
-
+ 
  body { 
  
   background-image: url("font.jpg"); 
@@ -18,7 +17,7 @@
    padding-right: 90px;
    padding-bottom: 40px;
    flex-direction: row;
-    
+   margin-left: 80px; 
    
  }
 
