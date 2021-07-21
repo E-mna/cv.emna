@@ -67,11 +67,13 @@ img{
 .coordonnees{
   padding-top: 100px;
 }
-} 
+}
 
   
    
-  
+  @media(max-width: 1000px) {
+    
+ 
  
   img{
     width: 900px;
@@ -83,13 +85,30 @@ img{
  body { 
   background-color: rgb(159, 185, 183); 
   background-size: 80px;
+  
  }
  
+section{
+  text-align: center;
+   
+  width: 900px;
+  height: 1700px;
+}
+.formation{
+  display:inline-block;
+}
+.competence{
+display:inline-block;
 
- section{
-   padding-left: 300px;
- }
- /*
+}
+
+.skills{
+  display:inline-block;
+}
+
+
+
+/*
  .nom{
    padding-top: 100px;  
    padding-left: 300px;
@@ -101,7 +120,7 @@ img{
    margin-left: 200px;
    margin-right: 30px;
  }
-
- */
+*/
+ 
  
  
