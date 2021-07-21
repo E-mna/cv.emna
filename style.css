@@ -1,38 +1,38 @@
  
  body { 
- 
-  background-image: url("font.jpg"); 
-  background-size: 100% 100%;
-  background-position: center; /* Centrer l'image */
-  background-repeat: no-repeat; /* ne pas repliter image */
-  min-width: 100%;
-  min-height: 100%;
-  
+  background-color: rgb(159, 185, 183); 
+   
  }
- 
- 
+img{
+  width: 900px;
+  height: 1000px;
+  z-index: -1;
+  position: absolute;
+}
+
+ #bloc_page
+ {
+     width: 900px;
+     margin: auto;   
+ }
  
  .deux{
    float: right;
    padding-right: 90px;
-   padding-bottom: 40px;
-   flex-direction: row;
-   margin-left: 80px; 
-   
+   padding-top: 30px;
  }
 
  .un{
-  padding-top: 20px;
+  padding-top: 100px;
   padding-left: 90px;
   padding-bottom: 40px;
-  
 }
 
  .nom{
-   padding-top: 30px;
+   padding-top: 100px;
  }
  .formation{
-   padding-top: 80px;
+   padding-top: 200px;
    padding-left: 5Opx;
  }
 
@@ -53,3 +53,16 @@
   text-align: right;
   color: rgb(189, 141, 96);
  }
+ .competences{
+   padding-top: 30px;
+ }
+.skills{
+  padding-top: 20px;
+}
+ .interets{
+   padding-top: 110px;
+ }
+.coordonnees{
+  padding-top: 100px;
+}
+ 
