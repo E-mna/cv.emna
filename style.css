@@ -78,14 +78,14 @@ img{
  
   img{
     width: 900px;
-    height: 1800px;
+    height: 2000px;
     z-index: -1;
     position: absolute;
   }
  
  body { 
   background-color: rgb(159, 185, 183); 
-  background-size: 80px;
+  background-size: 90px;
   
  }
  
