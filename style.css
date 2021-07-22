@@ -79,7 +79,7 @@ img{
  
   img{
     width: 900px;
-    height: 3500px;
+    height: 3300px;
     z-index: -1;
     position: absolute;
   }
@@ -120,7 +120,7 @@ ul{
 .nom{
   font-size: 60px;
   text-align: left;
-  padding-left: 250px;
+  padding-left: 240px;
 }
 .metier{
   color: rgb(189, 141, 96);
