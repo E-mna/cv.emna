@@ -2,10 +2,9 @@
  
  body { 
   background-color: rgb(159, 185, 183); 
-  background-size: 80px;
-   
-   
+  background-size: 80px;  
  }
+
 img{
   width: 900px;
   height: 1100px;
@@ -17,8 +16,7 @@ img{
  {
      width: 900px;
      margin: auto;   
-     flex-wrap: wrap;
-     
+     flex-wrap: wrap; 
  }
  
  .deux{
@@ -36,8 +34,12 @@ img{
 
 
  .formation{
-   padding-top: 200px;
+   padding-top: 100px;
    padding-left: 5Opx;
+ }
+ .year{
+  font-size: 11px;
+  font-weight: bold;
  }
  h1{
   font-size: medium;
@@ -73,8 +75,8 @@ a{
   color: #000;
 }
 .fa-linkedin {
-  background: #007bb5;
-  color: white;
+  padding-left: 50px;
+  
 }
  
 }
@@ -96,9 +98,11 @@ a{
   background-color: rgb(159, 185, 183); 
   background-size: 90px;
   position: absolute;
-  
  }
- 
+ .year{
+  font-size: 15px;
+  font-weight: bold;
+ }
 section{
   text-align: center;
   width: 900px;
@@ -154,6 +158,12 @@ a{
   text-decoration: none;
   color: #000;
 }
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  
+}
+ 
 
  
 }
