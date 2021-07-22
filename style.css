@@ -68,6 +68,14 @@ img{
 .coordonnees{
   padding-top: 80px;
 }
+a{
+  text-decoration: none;
+  color: #000;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
  
 }
 
@@ -141,6 +149,10 @@ p, li{
 }
 h1{
   font-size: 35px;
+}
+a{
+  text-decoration: none;
+  color: #000;
 }
 
  
