@@ -89,13 +89,13 @@ a{
  
   img{
     width: 900px;
-    height: 3400px;
+    height: 3300px;
     z-index: -1;
     position: absolute;
   }
   .in{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
   }
  
  body { 
