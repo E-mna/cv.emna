@@ -11,6 +11,9 @@ img{
   z-index: -1;
   position: absolute;
 }
+.in{
+  width: 40px;
+  height: 40px;}
 
  #bloc_page
  {
