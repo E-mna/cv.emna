@@ -5,7 +5,7 @@
   background-size: 80px;  
  }
 
-img{
+#fonta{
   width: 900px;
   height: 1100px;
   z-index: -1;
@@ -91,7 +91,7 @@ a{
     
  
  
-  img{
+  #fonta{
     width: 900px;
     height: 3300px;
     z-index: -1;
@@ -169,7 +169,7 @@ a{
   text-decoration: none;
   color: #000;
 }
- 
+
 }
 
 
